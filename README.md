@@ -4,9 +4,6 @@ PulseCheck is a machine learning-based predictive healthcare system designed to 
 
 - **[Uzair A.Jokhio](https://github.com/Uzair-A-Jokhio)** – Team Lead
 - **[Hasrat Nazar](https://github.com/hasratnazar)**
-- **[Jawad Umrani](https://github.com/itsjawadbaloch)**
-- **[Sultan Chandio](https://github.com/MSultanChandio)**
-
 
 # Steps for the Project!
 
